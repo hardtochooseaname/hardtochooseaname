@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I'm currently a master's student in University of Electronic Science and Technology of China.
+My major is Computer Technology and I'm studying distributed system and network.
+The program language I use is Cpp and C, I'm also learning Go lang.
+
+I created this profile README because of the request of GitHub for education program. 
+I think that's enough? 
+
 <!--
 **hardtochooseaname/hardtochooseaname** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
